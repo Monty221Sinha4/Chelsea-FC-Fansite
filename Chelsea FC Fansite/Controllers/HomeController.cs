@@ -13,5 +13,17 @@ namespace Chelsea_FC_Fansite.Controllers
         {
             return View();
         }
+        public ActionResult News()
+        {
+            return View();
+        }
+        public ActionResult Updates()
+        {
+            return View();
+        }
+        public ActionResult Gallery()
+        {
+            return View();
+        }
     }
 }
